@@ -1,0 +1,41 @@
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.deps.json
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csprojAssemblyReference.cache
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CopyComplete
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\curso_cleanarq\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.deps.json
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Application.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CopyComplete
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\refint\CleanArchMvc.Infra.IoC.dll
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.json
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.runtimeconfig.dev.json
+C:\Users\destr\Documents\tutorias\Curso Udemy Clean Archtecture Essential\Projeto_CleanArchMvc_VS2019\CleanArchMvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.genruntimeconfig.cache

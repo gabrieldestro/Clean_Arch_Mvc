@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A2GfF+iYVoLlNbjLiEO/uz79N8nmmxkU9/D7GoL6JAdlfQeqfHVc12u1eAWCG3TFZ5XNpfqSCeQEIdG8zd2pHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\destr\\Documents\\tutorias\\Curso Udemy Clean Archtecture Essential\\Projeto_CleanArchMvc_VS2019\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\destr\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\destr\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\destr\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\destr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
